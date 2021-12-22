@@ -1,4 +1,5 @@
 ### Hi there I am Himanshu Jadon 👋
+- Currently: B.tech ECE student at Chameli Devi Group of Institutions
 - 🌱 I’m currently learning Python and Robotics
 - 📫 How to reach me: himanshujadon30@gmail.com
 <!--
