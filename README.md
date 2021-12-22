@@ -22,7 +22,7 @@ I'm persuing Graduation and living in Indore(M.P.), India. Outside Tech, I love 
 📫 How to reach me:
 ==================
 ![alt text](https://user-images.githubusercontent.com/96410955/147101374-cc77a8ec-afee-4389-9866-fd1278056dc9.png "Gmail")
-[![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://www.linkedin.com/in/himanshu-jadon-19674019b/)
+[![alt text](https://user-images.githubusercontent.com/96410955/147101964-30bea307-9f2f-476d-b9db-3578449df79b.png "Linkedin")](https://www.linkedin.com/in/himanshu-jadon-19674019b/)
 
 <!--
 **himanshu-957/himanshu-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
