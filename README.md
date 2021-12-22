@@ -1,7 +1,19 @@
-### Hi there I am Himanshu Jadon 👋
+Hey! 👋
+===========
+**I'm Himanshu Jadon!**
+
 - Currently: B.tech ECE student at Chameli Devi Group of Institutions
-- 🌱 I’m currently learning Python and Robotics
-- 📫 How to reach me: himanshujadon30@gmail.com
+
+🔭 Currently Working
+===========
+**Contributor at UpradeMore**
+
+Currently working as a contributor at UpgradeMore. I am working on 30DaysofPython series. 
+
+**Check out my GitHub repository:**
+
+
+
 <!--
 **himanshu-957/himanshu-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
