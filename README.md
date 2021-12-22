@@ -12,7 +12,7 @@ Currently working as a contributor at UpgradeMore. I am working on 30DaysofPytho
 
 **Check out my GitHub repository:**
 
-[I'm an inline-style link](https://github.com/himanshu-957/30DaysofPython)
+[![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanshu-957/30DaysofPython)
 
 
 <!--
