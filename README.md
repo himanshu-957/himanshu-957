@@ -14,6 +14,13 @@ Currently working as a contributor at UpgradeMore. I am working on 30DaysofPytho
 
 [![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanshu-957/30DaysofPython)
 
+About Himanshu⚡ :
+================
+
+I'm persuing Graduation and living in Indore(M.P.), India. Outside Tech, I love to play badminton, enjoy music and explore nature outdoors.
+
+📫 How to reach me:
+==================
 
 <!--
 **himanshu-957/himanshu-957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
