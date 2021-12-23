@@ -8,7 +8,7 @@ Hey! 👋
 ===========
 **Contributor at UpradeMore**
 
-Currently working as a contributor at UpgradeMore. I am working on 30DaysofPython series. 
+Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I am working on 30DaysofPython series. 
 
 **Check out my GitHub repository:**
 
