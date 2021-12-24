@@ -17,7 +17,7 @@ Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I
 About Himanshu⚡ :
 ================
 
-I'm persuing Graduation and living in Indore(M.P.), India. Outside Tech, I love to play badminton, enjoy music and explore nature outdoors.
+I'm pursuing Graduation and living in Indore(M.P.), India. Outside Tech, I love to play badminton, enjoy music and explore nature outdoors.
 - Write to me: himanshujadon30@gmail.com
 
 📫 How to reach me:
