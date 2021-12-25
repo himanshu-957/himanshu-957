@@ -14,6 +14,10 @@ Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I
 
 [![alt text](https://user-images.githubusercontent.com/96410955/147039841-66cb3b83-15cd-43d3-ad9d-4643a8986778.png "30DaysofPython")](https://github.com/himanshu-957/30DaysofPython)
 
+**Intern at Infinity Research Lab**
+
+Working on several Robotics and IoT related projects in this Internship.
+
 About Himanshu⚡ :
 ================
 
