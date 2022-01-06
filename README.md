@@ -16,7 +16,7 @@ Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I
 
 **Intern at Infinity Research Lab:**
 
-Working on several Robotics and IoT related projects in this Internship.
+Working on several Robotics and IoT related projects in this Internship at [Infinity Research Lab](https://infinityresearchlab.com/).
 
 About Himanshu⚡ :
 ================
