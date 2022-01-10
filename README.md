@@ -2,7 +2,7 @@ Hey! 👋
 ===========
 **I'm Himanshu Jadon!**
 
-- Currently: B.tech ECE student at Chameli Devi Group of Institutions
+- Currently: B.tech ECE student at Chameli Devi Group of Institutions.
 
 🔭 Currently Working
 ===========
