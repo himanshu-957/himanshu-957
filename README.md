@@ -6,9 +6,9 @@
 
 🔭 Currently Working
 ===========
-**Contributor at UpradeMore:**
+**Intern at eInfochips - An Arrow Company:**
 
-Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I am working on 30DaysofPython series. 
+Currently working as a PES Intern at [eInfochips]([https://www.einfochips.com/]). 
 
 **Check out my GitHub repository:**
 
@@ -16,7 +16,7 @@ Currently working as a contributor at [UpgradeMore](https://upgrademore.com/). I
 
 **Intern at Infinity Research Lab:**
 
-Working on several Robotics and IoT related projects in this Internship at [Infinity Research Lab](https://infinityresearchlab.com/).
+Worked on several Robotics and IoT related projects in this Internship at [Infinity Research Lab](https://infinityresearchlab.com/).
 
 About Himanshu⚡ :
 ================
