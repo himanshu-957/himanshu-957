@@ -8,7 +8,7 @@
 ===========
 **Intern at eInfochips - An Arrow Company:**
 
-Currently working as a PES Intern at [eInfochips]([https://www.einfochips.com/]). 
+Currently working as a PES Intern at [eInfochips](https://www.einfochips.com/). 
 
 **Check out my GitHub repository:**
 
